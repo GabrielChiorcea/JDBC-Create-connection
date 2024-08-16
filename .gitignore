@@ -1,0 +1,23 @@
+# Ignoră directoarele de build și librării
+/bin/
+/lib/
+/out/
+/target/
+
+# Ignoră fișierele generate de IDE-uri
+.vscode/
+.idea/
+*.iml
+
+# Ignoră fișierele de log
+*.log
+
+# Ignoră fișierele temporare sau cache
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+.DS_Store
+Thumbs.db
+
